@@ -1,4 +1,3 @@
-git remote add origin https://github.com/gennishsuper-design/5th-month.git#!/usr/bin/env python
 import os
 import sys
 
