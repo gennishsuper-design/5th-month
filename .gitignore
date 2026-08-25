@@ -1,0 +1,2 @@
+echo -e ".venv/\nvenv/\nsource/\n*.sqlite3\n__pycache__/" > ../.gitignore
+cp ../.gitignore .gitignore
